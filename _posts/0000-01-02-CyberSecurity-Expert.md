@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Part 1: What is hacking exactly?"
 ---
-Test slide
-Use the left arrow to go back!
+Use the right arrow to find out.
